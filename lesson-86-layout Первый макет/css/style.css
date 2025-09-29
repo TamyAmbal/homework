@@ -5,7 +5,7 @@
     --accent-text: #1d6fb6;
 }
 
-.body {
+body {
     font-family: "Montserrat", "Arial", sans-serif;
     line-height: calc(20px / 16px);
     color: #25282B;
@@ -366,4 +366,5 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
+
 }
